@@ -29,3 +29,4 @@ chicago.csv, new_york_city.csv, washington.csvi and Explore_bikeshare_data.ipynb
 
 ### Credits
 https://udacity.github.io/git-styleguide/
+https://git-scm.com/book/en/v2/Getting-Started-First-Time-Git-Setup
