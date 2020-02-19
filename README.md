@@ -25,8 +25,7 @@ factor, collection and so on. Then we endorsed our findings with some
 statistical diagrams.
 
 ### Files used
-Source files: chicago.csv, new_york_city.csv and washington.csv
-Data file: Explore_bikeshare_data.ipynb
+chicago.csv, new_york_city.csv, washington.csvi and Explore_bikeshare_data.ipynb
 
 ### Credits
 https://udacity.github.io/git-styleguide/
